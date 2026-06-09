@@ -15,6 +15,7 @@ export const MESSAGES = {
     DELETED: "User deleted successfully",
     NOT_FOUND: "User not found",
   },
+  
   EMAIL:{
     EMAIL_ALREADY_REGISTERED: "Email is already registered",
   },

@@ -1,0 +1,5 @@
+npm install
+npx prisma generate
+npx prisma migrate dev
+
+use respone and pagination from utils folder
